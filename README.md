@@ -6,7 +6,7 @@
 * [x] [Exercício 1 — Fluxograma e Teste de Mesa.](https://github.com/Devsgeeknerd/exe-1-flu-tes-mes-exe-pra-vet-mat-bas)
 * [x] [Exercício 2 — Fluxograma e Teste de Mesa.](https://github.com/Devsgeeknerd/exe-2-flu-tes-mes-exe-pra-vet-mat-bas)
 * [x] [Exercício 3 — Fluxograma e Teste de Mesa.](https://github.com/Devsgeeknerd/exe-3-flu-tes-mes-exe-pra-vet-mat-bas)
-* [ ] [Exercício 4 — Fluxograma e Teste de Mesa.](https://github.com/Devsgeeknerd/exe-4-flu-tes-mes-exe-pra-vet-mat-bas) &#128679;
+* [x] [Exercício 4 — Fluxograma e Teste de Mesa.](https://github.com/Devsgeeknerd/exe-4-flu-tes-mes-exe-pra-vet-mat-bas)
 * [ ] [Exercício 5 — Fluxograma e Teste de Mesa.](https://github.com/Devsgeeknerd/exe-5-flu-tes-mes-exe-pra-vet-mat-bas) &#128679;
 
 <!-- Informações -->
